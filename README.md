@@ -13,11 +13,11 @@
 
 ## Download
 
-`git clone xxx.git`
+`npm install bj-node-ura`
 
 ##Start
 
-	var ura = require('node-ura');
+	var ura = require('bj-node-ura');
 	ura.init({
 	    client: 'mysql',
 	    connection: {

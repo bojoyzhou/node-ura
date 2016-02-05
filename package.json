@@ -1,0 +1,30 @@
+{
+  "name": "bj-node-ura",
+  "version": "0.0.1",
+  "description": "这是一个提供用户注册验证修改密码的模块",
+  "main": "index.js",
+  "dependencies": {
+    "knex": "^0.9.0",
+    "moment": "^2.11.2",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojoyzhou/node-ura.git"
+  },
+  "keywords": [
+    "nodejs",
+    "registtration",
+    "authorization"
+  ],
+  "author": "bojoyzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bojoyzhou/node-ura/issues"
+  },
+  "homepage": "https://github.com/bojoyzhou/node-ura#readme"
+}
