@@ -1,3 +1,5 @@
+# node-ura
+
 ##What?
 这是一个提供用户注册验证修改密码的模块 
 
@@ -47,6 +49,3 @@
     }, function(err) {
         throw err;
     });
-
-
-
